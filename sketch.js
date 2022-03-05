@@ -63,7 +63,7 @@ function setup(){
 
  trex.setCollider("circle", 0, 0, 25);
 
- trex.debug=true; //si lo cambio a true puedo ver el colisionador
+ trex.debug=false; //si lo cambio a true puedo ver el colisionador
 
  obstaclesGroup = new Group();
 
