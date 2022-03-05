@@ -1,2 +1,1 @@
-# t-rex
-este va a ser el juego del t-rex
+# PROC11_trex_Etapa0_V4
